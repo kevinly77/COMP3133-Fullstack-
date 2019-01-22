@@ -21,5 +21,5 @@ class Sedan extends Car {
     
 }
 
-const car2 = new Car('Spaceship', 1976);
+const car2 = new Car('Spaceship', 1976, 300000);
 car2.displayInfo();
